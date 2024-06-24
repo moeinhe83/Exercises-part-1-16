@@ -6,7 +6,7 @@ Programming Language ===> Python
 
 Program Description ===> 16th Exercise
 
-Example ===> Write a Program That Deletes The Name key From the Above Dictionary
+Example ===> Write A Program That Deletes The Name Key From The Above Dictionary
 
 A => info = {'name’:'moein', 'age':20}
 
