@@ -4,7 +4,7 @@ Question Number ===> 16
 
 Programming Language ===> Python
 
-Program description ===> 16th Exercise
+Program Description ===> 16th Exercise
 
 Example ===> Write a Program That Deletes The Name key From the Above Dictionary
 
